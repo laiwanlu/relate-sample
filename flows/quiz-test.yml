@@ -65,6 +65,7 @@ groups:
           - <plain>half
           - <plain>a half
           - <plain>一半
+          - <plain>二分之一
 
     -
         type: ChoiceQuestion
